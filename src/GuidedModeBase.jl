@@ -1,0 +1,3 @@
+module GuidedModeBase
+
+end # module
